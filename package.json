@@ -20,5 +20,13 @@
     "chromedriver": "^107.0.3",
     "geckodriver": "^3.2.0",
     "selenium-webdriver": "^4.6.1"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Juliana-Hooson/group-one-projectpt9.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Juliana-Hooson/group-one-projectpt9/issues"
+  },
+  "homepage": "https://github.com/Juliana-Hooson/group-one-projectpt9#readme"
 }
